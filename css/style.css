@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&family=Rubik+Iso&display=swap');
+
+.beth{
+    display: block;
+    margin: auto;
+    background-color: #E6E6E6;
+}
+header{
+    background-color: #E6E6E6;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+h1{
+    background-color: #C4C4C4;
+    text-align:center;
+    padding-top:auto;
+    margin-top:auto;
+    color:#005677;
+    font-family: 'Cinzel', serif;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;
+}
+
+h2{
+    background-color: #C4C4C4;
+    text-align:left;
+    padding-top:auto;
+    margin-top:auto;
+    color:#005677;
+    font-family: 'Cinzel', serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.datosPersonales{
+    font-family: Times New Roman;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 13px;  
+    text-align: left;
+    color: #000000;
+}
+
+.años{
+    font-family: Times New Roman;
+    font-size: 15px;
+    line-height: 12.7px; 
+    color: #000000;
+}
+div{
+    font-family: Times New Roman;
+    background-color:#C4C4C4 ;
+    text-align: center;
+    color:#FFFFFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;  
+}
+.footerImg{
+    display: line;    
+    
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.spanDos{
+    font-weight: bold;
+    font-style: normal;
+}
+.presentacion{
+    color: #005677 ;
+    background-color: #E6E6E6;    
+}
+
