@@ -6,7 +6,7 @@
     background-color: #E6E6E6;
 }
 header{
-    background-color: url(..img/fondo.jpg);
+    background-color: url(../img/fondo.jpg);
     padding-top: 0px;
     padding-left: 0px;
 }
@@ -79,6 +79,6 @@ span{
 }
 
 body{
-    background-image: url(..img/fondo.jpg);
+    background-image: url(../img/fondo.jpg);
     background-size: cover;
 }
